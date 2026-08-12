@@ -1,0 +1,4 @@
+Update Plan:
+1. Python update
+2. Django update to  Django 5.2 LTS - safe update
+3.  requirements.txt pip list --outdated
