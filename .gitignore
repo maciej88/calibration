@@ -1,6 +1,13 @@
+# IDE
 .idea
-__init__.py
+.vscode
+
+# Python
+__pycache__/
+*.py[cod]
 venv
+.venv
+
+# local data & secrets
 /db.sqlite3
 /calibration/.env
-/calibration/__pycache__
